@@ -79,12 +79,21 @@ The living animals:
 
 The skulls and anything else: 
 ```
-@inproceedings{
-anonymous2023jurassic,
-title={Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation},
-author={Anonymous},
-booktitle={31st ACM International Conference on Multimedia (ACM Multimedia) Brave New Ideas Track},
-year={2023},
-url={https://openreview.net/forum?id=xwVMFxYjrz}
+@inproceedings{Martin_2023,
+	doi = {10.1145/3581783.3612708},
+  
+	url = {https://doi.org/10.1145%2F3581783.3612708},
+  
+	year = 2023,
+	month = {oct},
+  
+	publisher = {{ACM}
+},
+  
+	author = {Alexander Martin and Haitian Zheng and Jie An and Jiebo Luo},
+  
+	title = {Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation},
+  
+	booktitle = {Proceedings of the 31st {ACM} International Conference on Multimedia}
 }
 ```
